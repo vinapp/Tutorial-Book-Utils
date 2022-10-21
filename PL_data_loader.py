@@ -3,9 +3,9 @@
 import gdown
 import argparse
 
-file_destinations = {'NatarajaAbhaMudraDetection':'Face Mask Detection.zip'}
+file_destinations = {'NatarajaAbhaMudraDetection':'nataraja.zip'}
 
-file_id_dic = {'NatarajaAbhaMudraDetection':'1Cw-cDkMswFN-dzW1k0vScAKmKmZoYgH6'}
+file_id_dic = {'NatarajaAbhaMudraDetection':'1mKyxs77pOg-_tSYs0SbkzsXZtqtIQ7WW'}
 
 def download_file_from_google_drive(id_, destination):
     url = f'https://drive.google.com/uc?id={id_}'
