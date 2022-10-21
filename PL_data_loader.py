@@ -5,7 +5,7 @@ import argparse
 
 file_destinations = {'NatarajaAbhayaMudraDetection':'nataraja-fasterrcnn-labelled.zip'}
 
-file_id_dic = {'NatarajaAbhayaMudraDetection':'1VSEiOokd26ZrO54hg9zkqfJ5Q8as7Ygd'}
+file_id_dic = {'NatarajaAbhayaMudraDetection':'1ZDNhhqTzGrl1gBy4AyapAk137BszrGnF'}
 
 def download_file_from_google_drive(id_, destination):
     url = f'https://drive.google.com/uc?id={id_}'
